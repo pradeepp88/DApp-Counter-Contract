@@ -7,17 +7,17 @@ Deployed in local blockchain created with Truffle</br>
 
 ## To start application
 
-`cd app </br>
-truffle develop</br>
-compile</br>
-migrate`
+`cd app`
+`truffle develop`
+`compile`
+`migrate`
 
 ## To start Frontend - Create a new instance
 
-`cd app/client
-npm start`
+`cd app/client`
+`npm start`
 
 ## To start backend
 
-`cd app/node-postgres
-nodemon index.js`
+`cd app/node-postgres`
+`nodemon index.js`
