@@ -7,8 +7,10 @@ Deployed in local blockchain created with Truffle</br>
 
 ## To start application
 
-`cd app
-truffle develop`
+`cd app </br>
+truffle develop</br>
+compile</br>
+migrate`
 
 ## To start Frontend - Create a new instance
 
