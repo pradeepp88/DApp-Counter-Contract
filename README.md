@@ -14,7 +14,7 @@ Deployed in local blockchain created with Truffle</br>
 `test`
 
 ## To start Frontend - Create a new instance
-
+Disable MetaMask Wallet before starting the app</br>
 `cd app/client`
 `npm start`
 
@@ -26,5 +26,12 @@ Change `app/node-posgres/db.js` file
 Change the `contractAddress = 0x9c94B4fa4770ce4Ef8517994AB1EEa3Fb0BF963C` line in index.js with the deployed contract address from truffle</br>
 `cd app/node-postgres`
 `nodemon index.js`
+
+## Test cases for contract
+![image](https://user-images.githubusercontent.com/45354395/113525974-f34c8780-9585-11eb-8a76-ee79edaabddb.png)
+
+## Screenshots
+![image](https://user-images.githubusercontent.com/45354395/113526525-62c37680-9588-11eb-8235-0fbe2b081eb3.png)
+
 
 
