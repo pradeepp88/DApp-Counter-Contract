@@ -33,5 +33,8 @@ Change the `contractAddress = 0x9c94B4fa4770ce4Ef8517994AB1EEa3Fb0BF963C` line i
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/45354395/113526525-62c37680-9588-11eb-8235-0fbe2b081eb3.png)
 
+Reset Function called after count reaches 10
+![image](https://user-images.githubusercontent.com/45354395/113526698-06ad2200-9589-11eb-92f3-156b33baa06c.png)
+
 
 
