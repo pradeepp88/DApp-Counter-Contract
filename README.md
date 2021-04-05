@@ -19,7 +19,7 @@ Deployed in local blockchain created with Truffle</br>
 `npm start`
 
 ## PostgreSQL Settings
-Change `db.js` file 
+Change `app/node-posgres/db.js` file 
 
 ## To start backend
 
