@@ -3,7 +3,7 @@
 Application Folder - app </br>
 Frontend created using - React and Truffle Drizzle - app/client</br>
 Backend created using - Node, Express and Postgres (with Event Listener and call reset) - app/node-postgres</br>
-Deployed in local develop network created with Truffle</br>
+Deployed and tested in local develop network created with Truffle</br>
 
 ## To deploy smart contract
 
