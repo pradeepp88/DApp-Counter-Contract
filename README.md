@@ -5,12 +5,13 @@ Frontend created using - React Drizzle - app/client</br>
 Backend created using - Express and Postgres - app/node-postgres</br>
 Deployed in local blockchain created with Truffle</br>
 
-## To start application
+## To deploy smart contract
 
 `cd app`
 `truffle develop`
 `compile`
 `migrate`
+`test`
 
 ## To start Frontend - Create a new instance
 
