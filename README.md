@@ -1,9 +1,9 @@
 # Counter-Contract-with-Listen
 
 Application Folder - app </br>
-Frontend created using - React Drizzle - app/client</br>
-Backend created using - Express and Postgres - app/node-postgres</br>
-Deployed in local blockchain created with Truffle</br>
+Frontend created using - React and Truffle Drizzle - app/client</br>
+Backend created using - Node, Express and Postgres (with Event Listener and call reset) - app/node-postgres</br>
+Deployed in local develop network created with Truffle</br>
 
 ## To deploy smart contract
 
