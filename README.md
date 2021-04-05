@@ -18,6 +18,9 @@ Deployed in local blockchain created with Truffle</br>
 `cd app/client`
 `npm start`
 
+## PostgreSQL Settings
+Change `db.js` file 
+
 ## To start backend
 
 Change the `contractAddress = 0x9c94B4fa4770ce4Ef8517994AB1EEa3Fb0BF963C` line in index.js with the deployed contract address from truffle</br>
